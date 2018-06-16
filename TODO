@@ -1,4 +1,46 @@
-+ Add AI and roaming animals, complete with flee and death animations
+UI
 + Update UI
++ Make it so passwords can now be changed from unhidden and hidden
+
+Networking
++ Optimize the network so that less is being synced at a time
++ If you create a room, and the name is empty, set the room name to something
+
+Optimization
 + Clean code, optimize fully
-+ Rename name-spaces, variables and value management
++ Rename namespaces, variables and manage values inspector-free
+
+Survival
++ Add additional survival durabilities such as food, water, stamina, weathering etc
++ Speed dependent on these survival durabilities
+
+AI
++ Add AI, roaming animals, flee/death animations, sounds
++ AI people
++ AI Traders where you can buy/sell things for 
++ Monsters
+
+Currency
++ Items used for currency. Items for items
+
+Hostility
++ Add monsters that come out at night, scared of light, can't swim. Deformed 'Radioactive poisoning' survivor that has mutated
+
+Players
++ Loot can be gained from dead bodies, 
++ VON, speaking distance, increase range by using radio
++ Spawn Items,
+
+Building
++ Military bases, abandoned science labs, radio tower
++ Player Made buildings, https://imgur.com/a/wmSXJoF so only green segments can be attached to the green snapping points, only blue segments can be attached the the blue snapping points (the roof has blue at bottom face in this case)
++ Limit to how many building parts in a bases
++ Rusty, scrap metal style bases
++ Raiding, 
+
+Items
++ Radio, have to be close enough to radio tower, needs batteries
+
+
+Events
++ Storm, siren goes off, puts players at risk, damages health, if you don't have mask, you take significant damage, blood radiation goes up, 
