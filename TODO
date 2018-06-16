@@ -4,7 +4,6 @@ UI
 
 Networking
 + Optimize the network so that less is being synced at a time
-+ If you create a room, and the name is empty, set the room name to something
 
 Optimization
 + Clean code, optimize fully
@@ -30,6 +29,7 @@ Players
 + Loot can be gained from dead bodies, 
 + VON, speaking distance, increase range by using radio
 + Spawn Items,
++ Running sounds
 
 Building
 + Military bases, abandoned science labs, radio tower
