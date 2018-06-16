@@ -1,4 +1,2 @@
-+ Pressing space adds constant force upwards, check-for-ground variable needs to be used
 + Logging in as an account that hasn't been signed up sticks you in an endless loop of checking for account
 + Tree model is bugged, extra foliage can be seen sticking out of the top
-+ UI needs to be changed so it is same proportions on different window sizes
