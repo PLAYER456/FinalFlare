@@ -7,7 +7,7 @@ Networking
 
 Optimization
 + Clean code, optimize fully
-+ Rename namespaces, variables and manage values inspector-free
++ Rename name spaces, variables and manage values inspector-free
 
 Survival
 + Add additional survival durabilities such as food, water, stamina, weathering etc
@@ -41,7 +41,6 @@ Building
 Items
 + Radio, have to be close enough to radio tower, needs batteries
 
-
 Events
 + Storm, siren goes off, puts players at risk, damages health, if you don't have mask, you take significant damage, blood radiation goes up
 
@@ -49,5 +48,3 @@ Back Story
 + Dirty Bomb created by the Russians is in experimentation, it blew up in their facility, and infected the scientists
 
 + Procedural spawning
-
-Bugs
