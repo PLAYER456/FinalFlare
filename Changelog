@@ -1,4 +1,10 @@
 16/06/2018
 
 + Implemented inventory system
-+ Traders can now only dab if the trade has a value of over 1000.
+
+27/06/2018
+
++ Changed networking platform
++ Updated UI layout
++ Implemented vitals bar
++ 

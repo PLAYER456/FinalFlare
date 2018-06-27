@@ -1,6 +1,6 @@
-# MilSim
-Game Development - MilSim
+# Final Flare
+Game Development - Final Flare
 
-Game Development - Military Simulation (Low Poly)
+Game Development - Multiplayer Open - World Survival Game
 
-Genre: FPS, Military, Simulation, Multiplayer
+Genre: FPS, Multiplayer, Survival
