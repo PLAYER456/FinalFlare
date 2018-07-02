@@ -25021,6 +25021,11 @@ Allows for CPU determination of whether the GPU has passed the point in its proc
         <para>PlayStation Vita graphics API.</para>
       </summary>
     </member>
+    <member name="F:UnityEngine.Rendering.GraphicsDeviceType.Switch">
+      <summary>
+        <para>Nintendo Switch graphics API.</para>
+      </summary>
+    </member>
     <member name="F:UnityEngine.Rendering.GraphicsDeviceType.Vulkan">
       <summary>
         <para>Vulkan (EXPERIMENTAL).</para>
