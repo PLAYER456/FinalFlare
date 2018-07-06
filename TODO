@@ -47,4 +47,5 @@ Events
 Back Story
 + Dirty Bomb created by the Russians is in experimentation, it blew up in their facility, and infected the scientists
 
-+ Procedural spawning
+Player Settings
++ Change user settings data handler from what it is now, to Unity's inbuilt 'PlayerPrefs' system. (Stupid me)
