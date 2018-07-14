@@ -1,6 +1,5 @@
 UI
 + Update UI
-+ Make it so passwords can now be changed from unhidden and hidden
 
 Networking
 + Optimize the network so that less is being synced at a time
@@ -28,7 +27,7 @@ Hostility
 Players
 + Loot can be gained from dead bodies, 
 + VON, speaking distance, increase range by using radio
-+ Spawn Items,
++ Spawn Items
 + Running sounds
 
 Building
@@ -36,7 +35,7 @@ Building
 + Player Made buildings, https://imgur.com/a/wmSXJoF so only green segments can be attached to the green snapping points, only blue segments can be attached the the blue snapping points (the roof has blue at bottom face in this case)
 + Limit to how many building parts in a bases
 + Rusty, scrap metal style bases
-+ Raiding, 
++ Raiding
 
 Items
 + Radio, have to be close enough to radio tower, needs batteries
@@ -46,6 +45,3 @@ Events
 
 Back Story
 + Dirty Bomb created by the Russians is in experimentation, it blew up in their facility, and infected the scientists
-
-Player Settings
-+ Change user settings data handler from what it is now, to Unity's inbuilt 'PlayerPrefs' system. (Stupid me)
