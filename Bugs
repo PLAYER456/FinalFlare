@@ -1,17 +1,11 @@
 + You do not die when hunger decreases health
 
-+ Patch all bugs with inventory systems and Null Object References
 + Fix the two variables using unneeded '.gameobject' and '.transforms' (pointerData.GetComponent<InventorySlot>();)
-+ the X in the corner should go invisible when an item is being dragged
 + Make it so that only armour can go into armour slots
-+ Rescale test objects
 + Make the item objects not have a collider, so that it does not move the player
-+ Make the hotbar show even when inventory is disabled
 + Make the hotbar use number keys to use the item
-+ Make the droppoint follow the angle of the camera
 + Simplify code/remove obsolete
 + Rework sprites for inventory
-+ 
 
 Further In:
 + When picking up / dropping items off, pool the objects to save processing time
