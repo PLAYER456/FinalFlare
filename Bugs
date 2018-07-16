@@ -3,7 +3,6 @@
 + Fix the two variables using unneeded '.gameobject' and '.transforms' (pointerData.GetComponent<InventorySlot>();)
 + Make it so that only armour can go into armour slots
 + Make the item objects not have a collider, so that it does not move the player
-+ Make the hotbar use number keys to use the item
 + Simplify code/remove obsolete
 + Rework sprites for inventory
 
