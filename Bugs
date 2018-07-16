@@ -10,6 +10,7 @@
 + Make the hotbar use number keys to use the item
 + Make the droppoint follow the angle of the camera
 + Simplify code/remove obsolete
++ Rework sprites for inventory
 + 
 
 Further In:
