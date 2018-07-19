@@ -1,10 +1,15 @@
 + You do not die when hunger decreases health
 
-+ Fix the two variables using unneeded '.gameobject' and '.transforms' (pointerData.GetComponent<InventorySlot>();)
++ Change angle of drop off point
++ Make it so that only 1 type of armour is allowed on at a time
++ Make armour protection reflect how much damage you get dealt
++ 
+
 + Make it so that only armour can go into armour slots
 + Make the item objects not have a collider, so that it does not move the player
 + Simplify code/remove obsolete
 + Rework sprites for inventory
++ Make armour visible (Waiting on sam :))
 
 Further In:
 + When picking up / dropping items off, pool the objects to save processing time
