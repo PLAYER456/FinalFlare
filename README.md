@@ -1,10 +1,12 @@
 # Final Flare
 Game Development - Final Flare
 
-Game Development - Multiplayer Open - World Survival Game
+Game Development - Multiplayer Open World Survival
 
 Genre: FPS, Multiplayer, Survival
 
 # Devblog 1 - 24/07/2018
 
-- Inventory System now has ability to pick up and drop off items
+- Implemented Inventory System
+- Game Scene reverted to prototype cubes to preserve optimization
+- Removed use of singleton scripts to enable multiplayer functionality
