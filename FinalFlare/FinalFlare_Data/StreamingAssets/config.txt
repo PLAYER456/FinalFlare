@@ -1,4 +1,0 @@
-[Config]
-FieldOfView=85
-Sensitivity=4
-LockFrameRate=150
