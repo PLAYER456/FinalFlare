@@ -9,4 +9,5 @@ Genre: FPS, Multiplayer, Survival
 
 - Implemented Inventory System
 - Game Scene reverted to prototype cubes to preserve optimization
-- Removed use of singleton scripts to enable multiplayer functionality
+- Removed use of singleton scripts to enable multiplayer functionality (Resulting in a drop in memory usage during runtime)
+- Added new (primitive) modular weapons system
