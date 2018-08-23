@@ -11,3 +11,6 @@ Genre: FPS, Multiplayer, Survival
 - Game Scene reverted to prototype cubes to preserve optimization
 - Removed use of singleton scripts to enable multiplayer functionality (Resulting in a drop in memory usage during runtime)
 - Added new (primitive) modular weapons system
+- Added weapon reloading
+- Added inventory item stacking
+- Added 2 types of ammunition (both for testing for the time being). 556 and 762
