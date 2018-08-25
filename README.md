@@ -17,3 +17,7 @@ Genre: FPS, Multiplayer, Survival
 - Added camera bob when jumping/landing
 
 # Devblog 2 - 24/08/2018
+- Implemented weapon swaying
+- Implemented item stacking UI (Stack sizes are now visible)
+- Implemented weapon states (Safety, Single, Automatic) Along with UI
+- Implemented weapon aiming
