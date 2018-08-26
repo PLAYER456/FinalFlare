@@ -21,3 +21,5 @@ Genre: FPS, Multiplayer, Survival
 - Implemented item stacking UI (Stack sizes are now visible)
 - Implemented weapon states (Safety, Single, Automatic) Along with UI
 - Implemented weapon aiming
+- Players with full inventories cannot pick up more than they can hold (Armour Slot overflow fix)
+- 
