@@ -22,4 +22,4 @@ Genre: FPS, Multiplayer, Survival
 - Implemented weapon states (Safety, Single, Automatic) Along with UI
 - Implemented weapon aiming
 - Players with full inventories cannot pick up more than they can hold (Armour Slot overflow fix)
-- 
+- Implemented a crafting system with UI
